@@ -51,7 +51,7 @@ public class procMgr {
 			/*
 			 * 문의 등록후 담당자에게 메일발송
 			 */
-			MailSendMgr.sendMail(hmap);
+			//MailSendMgr.sendMail(hmap);
 
 		}  catch(SQLException se){
 			System.out.println("SQL Exception : " + se.getMessage());
