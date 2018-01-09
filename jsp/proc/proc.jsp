@@ -35,7 +35,7 @@
     $(document).ready(function() {
        if( procNo > -1 ){
            alert("정상적으로 처리되었습니다.");
-           //parent.location.reload();
+           parent.location.reload();
        } else{
            alert("처리 중 문제가 발생하였습니다. 관리자에게 문의해주세요");
        }
