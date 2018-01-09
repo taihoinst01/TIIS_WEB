@@ -1,0 +1,201 @@
+﻿
+/* about CSS */
+.aboutChannel{background-color:#F1F1F1; float:right; padding:8px 15px}
+.aboutContents{background-color:#F1F1F1}
+.aboutContentsImg1{width: 125px;height: 125px;background: url(../image/menuAbout/icon_skill.png) no-repeat;background-size: 100%;margin: 0 auto;}
+.aboutContentsImg2{width: 125px;height: 125px;background: url(../image/menuAbout/icon_different.png) no-repeat;background-size: 100%;margin: 0 auto}
+.aboutContentsImg3{width: 125px;height: 125px;background: url(../image/menuAbout/icon_challenge.png) no-repeat;background-size: 100%;margin: 0 auto}
+.taihoIcon{width: 140px;height: 40px;background: url(../image/menuAbout/btd_taiho.png) no-repeat;background-size: 100%;margin: 0 auto;border-radius:6px}
+.taihoIcon:hover{width: 140px;height: 40px;background: url(../image/menuAbout/btd_taiho_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+
+/* service Common CSS */
+.serviceContentsBG{background-color: #FFFAEE; border: 1px solid #FFFAEE; text-align:center}
+.serviceChnnelBG{background-color:#FFFAEE; float:right; padding:8px 15px}
+.serviceButtonBG{background-color:#F8EDD7; padding:30px 0; text-align:center}
+.serviceButton1{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_vision.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton1:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_vision_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.serviceButton2{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_speech.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton2:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/speech/btd_speech_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.serviceButton3{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_language.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton3:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/language/btd_language_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.serviceButton4{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_knowledge.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton4:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/knowledge/btd_knowledge_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.serviceButton5{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_search.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton5:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/search/btd_search_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.serviceButton6{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/vision/btd_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
+.serviceButton6:hover{width: 100%;height: 50px;max-width:160px;background: url(../image/menuService/labs/btd_labs_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+
+/* service Cognitive CSS */
+.cognitiveChannel{background-color:#F9F9F9; float:right; padding:8px 15px}
+.cognitiveContentsBG {background-color: #F9F9F9}
+.cognitiveFeaturesImg1 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_vision.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg1:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_vision.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg2 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_speech.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg2:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_speech.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg3 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_language.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg3:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_language.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg4 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_knowledge.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg4:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_knowledge.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg5 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_search.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg5:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_search.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg6 {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
+.cognitiveFeaturesImg6:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+/* service Vision CSS */
+.visionImg1 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_c_v.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle1{background-color:#FDA900; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder1{border: 1px solid #FDA900; height:100px}
+.visionImg2 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_c_m.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle2{background-color:#FDA302; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder2{border: 1px solid #FDA302; height:100px}
+.visionImg3 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_emo.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle3{background-color:#FE9307; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder3{border: 1px solid #FE9307; height:100px}
+.visionImg4 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_face.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle4{background-color:#FE7E0D; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder4{border: 1px solid #FE7E0D; height:100px}
+.visionImg5 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_v_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle5{background-color:#FE780E; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder5{border: 1px solid #FE780E; height:100px}
+.visionImg6 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_v_i.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle6{background-color:#FF6115; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder6{border: 1px solid #FF6115; height:100px}
+.visionImg7 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_c_v_s.png) no-repeat;background-size: 100%;margin: 0 auto}
+.visionContentsTitle7{background-color:#FF4E1A; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.visionContentsTitleBGborder7{border: 1px solid #FF4E1A; height:100px}
+
+/* service Speech CSS */
+.speechImg1 {width: 110px;height: 110px;background: url(../image/menuService/speech/icon_s_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.speechContentsTitle1{background-color:#FDAB00; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.speechContentsTitleBGborder1{border: 1px solid #FDAB00; height:70px}
+.speechImg2 {width: 110px;height: 110px;background: url(../image/menuService/speech/icon_s_r.png) no-repeat;background-size: 100%;margin: 0 auto}
+.speechContentsTitle2{background-color:#FE8F08; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.speechContentsTitleBGborder2{border: 1px solid #FE8F08; height:70px}
+.speechImg3 {width: 110px;height: 110px;background: url(../image/menuService/speech/icon_c_s_S.png) no-repeat;background-size: 100%;margin: 0 auto}
+.speechContentsTitle3{background-color:#FF491B; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.speechContentsTitleBGborder3{border: 1px solid #FF491B; height:70px}
+
+/* service Language CSS */
+.languageImg1 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_s_c.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle1{background-color:#FDA900; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder1{border: 1px solid #FDA900; height:80px}
+.languageImg2 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_l_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle2{background-color:#FE9307; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder2{border: 1px solid #FE9307; height:80px}
+.languageImg3 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_t_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle3{background-color:#FE7E0D; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder3{border: 1px solid #FE7E0D; height:80px}
+.languageImg4 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_t_s_s.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle4{background-color:#FE780E; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder4{border: 1px solid #FE780E; height:80px}
+.languageImg5 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_w_l.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle5{background-color:#FF6115; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder5{border: 1px solid #FF6115; height:80px}
+.languageImg6 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_l_u.png) no-repeat;background-size: 100%;margin: 0 auto}
+.languageContentsTitle6{background-color:#FF4E1A; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.languageContentsTitleBGborder6{border: 1px solid #FF4E1A; height:80px}
+
+/* service Knowledge CSS */
+.knowledgeImg1 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_a_k.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle1{background-color:#FDA900; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder1{border: 1px solid #FDA900; height:80px}
+.knowledgeImg2 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_e_l.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle2{background-color:#FE9307; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder2{border: 1px solid #FE9307; height:80px}
+.knowledgeImg3 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_k_e.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle3{background-color:#FE7E0D; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder3{border: 1px solid #FE7E0D; height:80px}
+.knowledgeImg4 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_Rec.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle4{background-color:#FE780E; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder4{border: 1px solid #FE780E; height:80px}
+.knowledgeImg5 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_qna.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle5{background-color:#FF6115; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder5{border: 1px solid #FF6115; height:80px}
+.knowledgeImg6 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_c_d_S.png) no-repeat;background-size: 100%;margin: 0 auto}
+.knowledgeContentsTitle6{background-color:#FF4E1A; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.knowledgeContentsTitleBGborder6{border: 1px solid #FF4E1A; height:80px}
+
+/* service Search CSS */
+.searchImg1 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_a_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle1{background-color:#FDA900; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder1{border: 1px solid #FDA900; height:80px}
+.searchImg2 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_i_s_p.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle2{background-color:#FDA302; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder2{border: 1px solid #FDA302; height:80px}
+.searchImg3 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_n_s_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle3{background-color:#FE9307; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder3{border: 1px solid #FE9307; height:80px}
+.searchImg4 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_v_s_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle4{background-color:#FE7E0D; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder4{border: 1px solid #FE7E0D; height:80px}
+.searchImg5 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_w_s_a.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle5{background-color:#FE780E; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder5{border: 1px solid #FE780E; height:80px}
+.searchImg6 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_e_s.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle6{background-color:#FF6115; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder6{border: 1px solid #FF6115; height:80px}
+.searchImg7 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_c_s.png) no-repeat;background-size: 100%;margin: 0 auto}
+.searchContentsTitle7{background-color:#FF4E1A; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.searchContentsTitleBGborder7{border: 1px solid #FF4E1A; height:80px}
+
+/* service Labs CSS */
+.labsImg {width: 110px;height: 110px;background: url(../image/menuService/labs/icon_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
+.labsContentsTitle1{background-color:#FDA900; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder1{border: 1px solid #FDA900; height:80px}
+.labsContentsTitle2{background-color:#FE9307; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder2{border: 1px solid #FE9307; height:80px}
+.labsContentsTitle3{background-color:#FE7E0D; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder3{border: 1px solid #FE7E0D; height:80px}
+.labsContentsTitle4{background-color:#FE780E; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder4{border: 1px solid #FE780E; height:80px}
+.labsContentsTitle5{background-color:#FF6115; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder5{border: 1px solid #FF6115; height:80px}
+.labsContentsTitle6{background-color:#FF4E1A; height:40px; font-size:20px; padding:5px;margin-top:15px}
+.labsContentsTitleBGborder6{border: 1px solid #FF4E1A; height:80px}
+
+/* service BotFramework CSS */
+.botFrameworkChannel{background-color:#F9F9F9; float:right; padding:8px 15px}
+.botFrameworkBG {background-color: #F9F9F9}
+.botFrameworkContentImg1{width: 110px;height: 110px;background: url(../image/menuService/botFramework/icon_develope.png) no-repeat;background-size: 100%;margin: 0 auto}
+.botFrameworkContentImg2{width: 110px;height: 110px;background: url(../image/menuService/botFramework/icon_convi.png) no-repeat;background-size: 100%;margin: 0 auto}
+.botFrameworkContentImg3{width: 110px;height: 110px;background: url(../image/menuService/botFramework/icon_busin.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+/* service Chatbot CSS */
+.chatbotChannel{background-color:#EFEFEF; float:right; padding:8px 15px}
+.chatbotMobileBG{background-color:#EFEFEF}
+.chatbotBG {background-color: #F5F0E2}
+.chatbotContentImg1{width: 110px;height: 110px;background: url(../image/menuService/chatbot/icon_call.png) no-repeat;background-size: 100%;margin: 0 auto}
+.chatbotContentImg2{width: 110px;height: 110px;background: url(../image/menuService/chatbot/icon_flatform.png) no-repeat;background-size: 100%;margin: 0 auto}
+.chatbotContentImg3{width: 110px;height: 110px;background: url(../image/menuService/chatbot/icon_chatbot.png) no-repeat;background-size: 100%;margin: 0 auto}
+.chatbotCaseBG{background-color: #F2F0F0}
+.chatbotLookBtnImg{width: 100%;height: 40px;max-width:140px;background: url(../image/menuService/chatbot/btd_look.png) no-repeat;background-size: 100%;margin: 0 auto}
+.chatbotLookBtnImg:hover{width: 100%;height: 40px;max-width:140px;background: url(../image/menuService/chatbot/btd_look_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+
+/* service Luis CSS */
+.luisChannel{background-color: #F1F1F1; float:right; padding:8px 15px}
+.luisBG {background-color: #F1F1F1}
+.luisContentImg1{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_work.png) no-repeat;background-size: 100%;margin: 0 auto}
+.luisContentImg2{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_comp.png) no-repeat;background-size: 100%;margin: 0 auto}
+.luisContentImg3{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_deve.png) no-repeat;background-size: 100%;margin: 0 auto}
+.luisContentImg4{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_stu.png) no-repeat;background-size: 100%;margin: 0 auto}
+.luisContentImg5{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_beha.png) no-repeat;background-size: 100%;margin: 0 auto}
+.luisContentImg6{width: 110px;height: 110px;background: url(../image/menuService/luis/icon_comm.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+/* service MachineLearning CSS */
+.machineLearningChannel{background-color: #F1F1F1; float:right; padding:8px 15px}
+.machineLearningBG {background-color: #F1F1F1}
+
+/* service OCR CSS */
+.ocrChannel{background-color: #F1F1F1; float:right; padding:8px 15px}
+.ocrBG {background-color: #F1F1F1}
+.ocrImg{width: 100%;height:300px;max-width: 100%;background: url(../image/menuService/ocr/bg_main.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+.ocrContentImg1{width: 110px;height: 110px;background: url(../image/menuService/ocr/icon_image.png) no-repeat;background-size: 100%;margin: 0 auto}
+.ocrContentImg2{width: 110px;height: 110px;background: url(../image/menuService/ocr/icon_anal.png) no-repeat;background-size: 100%;margin: 0 auto}
+.ocrContentImg3{width: 110px;height: 110px;background: url(../image/menuService/ocr/icon_result.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+/* support CSS */
+.supportChannel{background-color: #F2F1EB; float:right; padding:8px 15px}
+.supportBG{background-color:#F2F1EB}
+.supportBtnImg{width: 100%;height: 40px;max-width:140px;background: url(../image/menuSupport/btd_download.png) no-repeat;background-size: 100%;margin: 0 auto}
+.supportBtnImg:hover{width: 100%;height: 40px;max-width:140px;background: url(../image/menuSupport/btd_download_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
