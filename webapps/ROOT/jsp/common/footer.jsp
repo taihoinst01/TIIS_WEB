@@ -2,7 +2,7 @@
     pageEncoding="utf-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <!-- Footer -->
-    <div class="container-fluid mainFooterBG">
+    <div class="container mainFooterBG">
         <div class="row">
             <div class="col-md-7 footerForm1">
                 <div class="mainFooterImg1"></div>
@@ -50,7 +50,7 @@
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/chatBot.jsp';">ChatBot</a></h5>
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/luis.jsp';">LUIS</a></h5>
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/ocr.jsp';">OCR</a></h5>
-                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';">Machine Learning</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/mechineLearning.jsp';">Machine Learning</a></h5>
                     </div>
                 </div>
             </div>

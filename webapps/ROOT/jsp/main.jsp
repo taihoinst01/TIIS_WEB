@@ -100,7 +100,7 @@
 
     <!-- CONTENTS -->
     <!-- banner carousel -->
-    <div class="container-fluid pd0_lr">
+    <div class="container pd0_lr">
 	    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 	        <ol class="carousel-indicators">
 	            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
@@ -130,28 +130,16 @@
     </div>
 
     <!-- OVERVIEW -->
-    <div class="container-fluid mainOverviewBG">
-		<div class="row">
-        	<div class="col-md-6">
-       			<h5>OVERVIEW</h5>
-       			<h3><strong>똑똑한 인공지능 서비스 TIIS</strong></h3>
-       		</div>
-       		<div class="col-md-6">
-				<h4 class="borderBottom1 pd10_tb"><strong>TIIS(TAIHO INST Intelligence Service)</strong></h4>
-				<h5>
-				타이호인스트의 풍부한 기술력을 바탕으로 고도화 된 AI 솔루션 입니다.<br>
-		       	시각 / 문자 / 음성 / 지식 / 검색 분야의 요구 사항을<br>
-		       	머신 러닝 및 고급 분석 기반으로 단순 결과 처리가 아닌 보다<br>
-		       	인간 친화적인 결과로 이끌어내어<br>
-		       	고객 만족과 더불어 스마트 AI를 지향합니다.<br>
-				</h5>
-       		</div>
-       	</div>
+    <div class="container pd0_lr">
+        <img src="../image/main/c01.png" class="maxW" />
     </div>
 
     <!-- Features -->
-    <div class="container-fluid mainFeaturesBG">
-		<h2 class="ta">Features</h2>
+    <div class="container mainFeaturesBG">
+        <div class="page-header">
+            <h2 class="ta">Features</h2>
+        </div>
+
         <div class="row">
             <div class="col-md-4">
                 <div class="thumbnail mainFeatures1 mg10p_lr">
@@ -161,9 +149,9 @@
                     <div class="caption">
                         <h3 class="ta"><strong>인지 기술</strong></h3><br />
                         <ul>
-                            <li><h5>시각/문자/음성/지식/검색 분야 인지 기술</h5></li>
-                            <li><h5>다양한 인식 방식을 API로 제공</h5></li>
-                            <li><h5>광범위한 사업 분야 개발 가능</h5></li>
+                            <li><h4>시각/문자/음성/지식/검색 분야 인지 기술</h4></li>
+                            <li><h4>다양한 인식</h4></li>
+                            <li><h4>광범위한</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -176,9 +164,9 @@
                     <div class="caption">
                         <h3 class="ta"><strong>자연어 이해</strong></h3><br />
                         <ul>
-                            <li><h5>사용자의 자연어 명령 이해</h5></li>
-                            <li><h5>간단한 언어 이해 모델 제작</h5></li>
-                            <li><h5>다양한 장치에 빠르게 활성화</h5></li>
+                            <li><h4>사용자의 자연어 명령 이해</h4></li>
+                            <li><h4>간단한 언어 이해 모델 제작</h4></li>
+                            <li><h4>다양한 장치에 빠르게 활성화</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -191,8 +179,8 @@
                     <div class="caption">
                         <h3 class="ta"><strong>Bot Framework</strong></h3><br />
                         <ul>
-                            <li><h5>챗봇 구축을 위한 도구 및 서비스</h5></li>
-                            <li><h5>Bot 빌더/개발자 포털/Bot 디렉토리 서비스</h5></li>
+                            <li><h4>챗봇 구축을 위한 도구 및 서비스</h4></li>
+                            <li><h4>Bot 빌더/개발자 포털/Bot 디렉토리 서비스</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -210,8 +198,8 @@
                     <div class="caption">
                         <h3 class="ta"><strong>기계 학습</strong></h3><br />
                         <ul>
-                            <li><h5>패턴 또는 추세 파악을 통한 미래의 이벤트 예측</h5></li>
-                            <li><h5>예측 분석 모델링 및 서비스 관리</h5></li>
+                            <li><h4>패턴 또는 추세 파악을 통한 미래의 이벤트 예측</h4></li>
+                            <li><h4>예측 분석 모델링 및 서비스 관리</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -224,8 +212,8 @@
                     <div class="caption">
                         <h3 class="ta"><strong>클라우드 환경</strong></h3><br />
                         <ul>
-                            <li><h5>쉽고 빠른 저비용의 안정적 서비스</h5></li>
-                            <li><h5>클라우드 환경을 통한 Serverless 지향</h5></li>
+                            <li><h4>쉽고 빠른 저비용의 안정적 서비스</h4></li>
+                            <li><h4>클라우드 환경을 통한 Serverless 지향</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -238,8 +226,8 @@
                     <div class="caption">
                         <h3 class="ta"><strong>데이터 서비스 결합</strong></h3><br />
                         <ul>
-                            <li><h5>온프레미스 기업데이터 연계</h5></li>
-                            <li><h5>Power BI 임베디드를 이용한 애플리케이션 연계</h5></li>
+                            <li><h4>온프레미스 기업데이터 연계</h4></li>
+                            <li><h4>Power BI 임베디드를 이용한 애플리케이션 연계</h4></li>
                         </ul>
                     </div>
                 </div>
@@ -251,8 +239,11 @@
     <div class="mg10_tb"></div>
 
     <!-- Service -->
-    <div class="container-fluid mainServiceBG">
-		<h2 class="ta">Service</h2>
+    <div class="container mainServiceBG">
+        <div class="page-header">
+            <h2 class="ta">Service</h2>
+        </div>
+
         <div class="row">
             <div class="col-md-4">
                 <div class="mainServiceImg1"></div>
@@ -288,34 +279,31 @@
     <div class="mg10_tb"></div>
 
     <!-- How It Works -->
-    <div class="container-fluid mainHowitworkBG">
-		<h2 class="ta"><strong>How It Works</strong></h2>
-        <br />
-        <h4 class="ta">TIIS는 고객의 다양한 Needs를 빠르고 효율적으로 해결합니다.</h4>
+    <div class="container mainHowitworkBG">
+        <div class="page-header">
+            <h2 class="ta"><strong>How It Works</strong></h2>
+            <br />
+            <h4 class="ta">TIIS는 고객의 다양한 Needs를 빠르고 효율적으로 해결합니다.</h4>
+        </div>
+
         <div class="row">
             <div class="col-md-12 ta">
                 <!--<img src="../image/main/howitwork/c04.png" class="maxW" />-->
                 <div class="mainHowitworkImg1">
-                    <h4 class="mainHowitworkTitle1"><strong>Customer Needs</strong></h4>
+                    <h4 class="mainHowitworkTitle1">Customer Needs</h4>
                     <h5 class="mainHowitworkText1">급변하는 시대의 고객 요구 사항은 기존과
                     는 달리 다양한 분야에서 더욱 예상하기 힘든 상황으로 발생하고 있습니다.</h5>
                 </div>
-
-                <div class="mainHowitworkArrow"></div>
-
                 <div class="mainHowitworkImg2">
-                    <h4 class="mainHowitworkTitle2"><strong>TIIS</strong></h4>
+                    <h4 class="mainHowitworkTitle2">TIIS</h4>
                     <h5 class="mainHowitworkText2">
                         TIIS는 고객의 요구를 해결하기 위해
                         시각/음성/언어/지식/검색 등 다양한 분야의 인공지능 기술력을 확보하고 있으며,
                         미래 예측 분석을 통해 빠르고, 쉽고, 명확한 해결을 제시합니다.
                     </h5>
                 </div>
-
-                <div class="mainHowitworkArrow"></div>
-
                 <div class="mainHowitworkImg3">
-                    <h4 class="mainHowitworkTitle3"><strong>Meet the Needs!</strong></h4>
+                    <h4 class="mainHowitworkTitle3">Meet the Needs!</h4>
                     <h5 class="mainHowitworkText3">
                         무한 성장의 원동력, TIIS와 함께라면
                         고객 가치 및 고객 만족을 이룰 수 있습니다.
@@ -328,7 +316,7 @@
 
 	<div class="mg10"></div>
 
-    <div class="container-fluid mainContactusBG">
+    <div class="container mainContactusBG">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="ta">Contact us</h2>

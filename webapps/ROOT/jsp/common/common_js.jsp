@@ -4,24 +4,23 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="/js/bootstrap.min.js"></script>
 <script src="/js/bootstrap-submenu.js"></script>
-<script src="/js/bootstrap-hover-dropdown.min.js"></script>
 
 <script lang="javascript">
     // 공유하기 전역변수
     var text = "%eb%ac%b4%ed%95%9c+%ec%84%b1%ec%9e%a5%ec%9d%98+%eb%b0%9c%ed%8c%90%2c+%ed%83%80%ec%9d%b4%ed%98%b8%ec%9d%b8%ec%8a%a4%ed%8a%b8%ec%9d%98+%ec%9d%b8%ea%b0%84+%ec%b9%9c%ed%99%94%ec%a0%81%ec%9d%b8+AI+%ec%86%94%eb%a3%a8%ec%85%98+TIIS%eb%a5%bc+%eb%a7%8c%eb%82%98%eb%b3%b4%ec%84%b8%ec%9a%94!%0d%0awww.tiis.co.kr%0d%0a";
     //var tUrl = "http://tiis.taihoinst.com";
     var tUrl = "https://tiis.azurewebsites.net/";
-
+    
 	$(document).ready(function() {
         $('[data-submenu]').submenupicker();
-
+        
 	    $("ul.mainTopMenu li").hover(function(){
             $(">ul:not(:animated)",this).slideDown("fast");
         },
         function(){
             $(">ul",this).slideUp("fast");
         });
-
+	    
 	    /* 페이지 title변경 */
 	    $(document).attr("title",$(".pageTitle").html());
 
@@ -37,21 +36,21 @@
 	       //urldecode("
 	       fnPopup(src, "트위터공유하기", 500, 500);
 	    });
-
+	    
         /* 페이스북 */
         $(".footerFaceBook").click(function(){
            var fUrl = "https://www.facebook.com/sharer/sharer.php";
            var src = fUrl+"?t="+text+"&u="+tUrl;
            fnPopup(src, "페이스북공유하기", 500, 300);
         });
-
+        
         /* 구글+ */
         $(".footerGoogle").click(function(){
            var src = "https://plus.google.com/share?url="+encodeURIComponent(tUrl)+"&t="+text;
            fnPopup(src, "GOOGLE+공유하기", 400, 500);
         });
 
-
+	    
 	    /* $(document).bind("contextmenu", function(e){
 	        alert("오른쪽 마우스 금지");
 	        return false;
@@ -73,11 +72,11 @@
 	function URLEncode(c){
 	    var o='';
 	    var x=0;
-
+	    
 	    c=c.toString();
-
+	    
 	    var r=/(^[a-zA-Z0-9_.]*)/;
-
+	    
 	    while(x<c.length){
 			var m=r.exec(c.substr(x));
 			if(m!=null && m.length>1 && m[1]!=''){
@@ -113,7 +112,7 @@
 	         }
 	         return o;
 	     },
-
+	
 	    URLDecode:function(s){
 	         var o=s;var binVal,t;var r=/(%[^%]{2})/;
 	         while((m=r.exec(o))!=null && m.length>1 && m[1]!=''){
@@ -316,11 +315,11 @@
             $(data).val(thisVal.replace( /[^0-9]/, '' ));
         }
     }
-
-    function emailCheck(email_address){
+    
+    function emailCheck(email_address){     
         email_regex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/i;
-        if(!email_regex.test(email_address)){
-            return false;
+        if(!email_regex.test(email_address)){ 
+            return false; 
         }else{
             return true;
         }
