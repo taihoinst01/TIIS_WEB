@@ -1,9 +1,9 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 html, body{font-family:nanumgothic !important}
-body{margin:10px;}
 .mg5_tb{margin:5px 0;}
 .mg10_tb{margin:10px 0;}
 .mg20_tb{margin:20px 0;}
+.mg40_tb{margin:40px 0;}
 .mg5_lr{margin:0 5px}
 .mg15_lr{margin:0 15px}
 .mg10p_lr{margin:0 10%}
@@ -34,6 +34,7 @@ body{margin:10px;}
 .h100{height:100px}
 .h120{height:120px}
 .borderBottom{border-bottom:3px solid #EAEAE8}
+.borderBottom1{border-bottom:2px solid #777}
 .cPoint{cursor:pointer}
 .navLi{color:#CCC; margin:0 5px;display:inline-block}
 .navMenu{color:#777;display:inline-block}
