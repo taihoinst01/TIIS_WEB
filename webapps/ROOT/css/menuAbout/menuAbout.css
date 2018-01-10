@@ -1,0 +1,11 @@
+﻿body{}
+
+.aboutMainImg{width: auto;height:300px;max-height: 540px;background: url(../image/menuAbout/bg_visual.png) no-repeat;background-size: 100%;margin: 0 auto}
+
+.aboutContents{background-color:#F1F1F1}
+.aboutSubContents{height:250px;background-color:#FFF}
+.aboutContentsImg1{width: 125px;height: 125px;background: url(../image/menuAbout/icon_skill.png) no-repeat;background-size: 100%;margin: 0 auto;}
+.aboutContentsImg2{width: 125px;height: 125px;background: url(../image/menuAbout/icon_different.png) no-repeat;background-size: 100%;margin: 0 auto}
+.aboutContentsImg3{width: 125px;height: 125px;background: url(../image/menuAbout/icon_challenge.png) no-repeat;background-size: 100%;margin: 0 auto}
+.taihoIconArea{height:150px; max-height:200px;top:60px}
+.taihoIcon{width: 140px;height: 40px;background: url(../image/menuAbout/btd_taiho.png) no-repeat;background-size: 100%;margin: 0 auto}
