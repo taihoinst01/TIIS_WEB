@@ -14,12 +14,12 @@
 
                 <div class="mainFooterCall">
                     <div class="mainFooterImg3"></div>
-                    <span class="mainFooterFont">02 - 6271 - 9788</span>
+                    <span class="mainFooterFont cPoint" onclick="location.href='tel:0262719788';">02 - 6271 - 9788</span>
                 </div>
 
                 <div class="mainFooterEmail">
                     <div class="mainFooterImg4"></div>
-                    <span class="mainFooterFont">TIIS_info@taihoinst.com</span>
+                    <span class="mainFooterFont cPoint" onclick="location.href='mailto:TIIS_info@taihoinst.com';">TIIS_info@taihoinst.com</span>
                 </div>
 
                 <div class="ta">
