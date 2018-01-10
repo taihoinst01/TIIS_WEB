@@ -17,7 +17,7 @@
         });
 
         /* 다음지도 설정 시작 */
-		var mapContainer = document.getElementById('map'), // 지도를 표시할 div
+		/* var mapContainer = document.getElementById('map'), // 지도를 표시할 div
 		    mapOption = {
 		        center: new daum.maps.LatLng(37.487029, 126.893086), // 지도의 중심좌표
 		        level: 3 // 지도의 확대 레벨
@@ -46,7 +46,7 @@
 		});
 
 		// 마커 위에 인포윈도우를 표시합니다. 두번째 파라미터인 marker를 넣어주지 않으면 지도 위에 표시됩니다
-		infowindow.open(map, marker);
+		infowindow.open(map, marker); */
 
 
 		// 아래 코드는 지도 위의 마커를 제거하는 코드입니다
