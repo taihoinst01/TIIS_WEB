@@ -36,21 +36,21 @@
                         <h5 class="mainFooterFont">
                             Cognitive
                             <ul>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Vision</a></li>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Speech</a></li>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Language</a></li>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Knowledge</a></li>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Search</a></li>
-                                <li class="pd5_tb mainFooterFont"><a href="#">Labs</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/vision.jsp';">Vision</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/speech.jsp';">Speech</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/language.jsp';">Language</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/knowledge.jsp';">Knowledge</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/search.jsp';">Search</a></li>
+                                <li class="pd5_tb mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/labs.jsp';">Labs</a></li>
                             </ul>
                         </h5>
                     </div>
                     <div class="col-md-6">
-                        <h5 class="mainFooterFont"><a href="#">Bot FrameWork</a></h5>
-                        <h5 class="mainFooterFont"><a href="#">ChatBot</a></h5>
-                        <h5 class="mainFooterFont"><a href="#">LUIS</a></h5>
-                        <h5 class="mainFooterFont"><a href="#">OCR</a></h5>
-                        <h5 class="mainFooterFont"><a href="#">Machine Learning</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/botFramework.jsp';">Bot FrameWork</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/chatBot.jsp';">ChatBot</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/luis.jsp';">LUIS</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/ocr.jsp';">OCR</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';">Machine Learning</a></h5>
                     </div>
                 </div>
             </div>
