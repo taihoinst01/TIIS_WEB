@@ -50,7 +50,7 @@
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/chatBot.jsp';">ChatBot</a></h5>
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/luis.jsp';">LUIS</a></h5>
                         <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/ocr.jsp';">OCR</a></h5>
-                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';">Machine Learning</a></h5>
+                        <h5 class="mainFooterFont"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/mechineLearning.jsp';">Machine Learning</a></h5>
                     </div>
                 </div>
             </div>
