@@ -10,7 +10,7 @@
 
 <script type="text/javascript">
     $(document).ready(function() {
-        $('a#newfilename').attr({target: '_blank', 
+        $('a#newfilename').attr({target: '_blank',
         href  : '/TIIS AI Services Proposal_v1.2.00_171221.pdf'});
     });
 
@@ -26,11 +26,11 @@
     <!-- CONTENTS -->
 
     <!-- service support IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuSupport/bg_main.png" class="maxW" />
     </div>
     <!-- support -->
-    <div class="container supportBG">
+    <div class="container-fluid supportBG">
         <ol class="supportChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
@@ -38,7 +38,7 @@
             <li class="active navMenu">Support</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
+        <div class="serviceCommonNavi"></div>
 
 		<div class="row ta">
             <div class="col-md-12">

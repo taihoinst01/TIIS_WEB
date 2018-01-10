@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- serviceLanguage IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/language/bg_main.png" class="maxW" />
     </div>
 
     <!-- serviceLanguage Contents -->
-   <div class="container serviceContentsBG">
+   <div class="container-fluid serviceContentsBG">
    		<ol class="serviceChnnelBG">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
@@ -101,9 +101,9 @@
             </div>
         </div>
         <br /><br />
-	    <!-- service Button -->
-	    <%@ include file="/jsp/service/serviceBtn.jsp" %>
     </div>
+    <!-- service Button -->
+    <%@ include file="/jsp/service/serviceBtn.jsp" %>
     <!-- // CONTENTS -->
 
     <!-- FOOTER -->

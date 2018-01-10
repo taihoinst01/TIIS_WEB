@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- service MachineLearning IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/machineLearning/bg_machine.png" class="maxW" />
     </div>
 
     <!-- MachineLearning Contents -->
-    <div class="container machineLearningBG">
+    <div class="container-fluid machineLearningBG">
         <ol class="machineLearningChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
@@ -31,13 +31,11 @@
             <li class="active navMenu">MachineLearning</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
+        <div class="serviceCommonNavi"></div>
         <div class="ta">
             <img src="/image/menuService/machineLearning/c01_box.png" class="maxW" />
         </div>
         <br /><br /><br />
-    	<!-- service Button -->
-	    <%@ include file="/jsp/service/serviceBtn.jsp" %>
 	</div>
     <!-- FOOTER -->
     <%@ include file="/jsp/common/footer.jsp" %>

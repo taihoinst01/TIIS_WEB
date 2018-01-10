@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- service Chatbot IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/chatbot/bg_main.png" class="maxW" />
     </div>
 
     <!-- Chatbot Contents1 -->
-    <div class="container chatbotMobileBG">
+    <div class="container-fluid chatbotMobileBG">
         <div class="ta chatbotBG">
             <ol class="chatbotChannel">
                 <li class="navLi">[</li>
@@ -42,7 +42,7 @@
     </div>
 
     <!-- Chatbot Contents2 -->
-    <div class="container chatbotBG">
+    <div class="container-fluid chatbotBG">
         <br /><br /><br />
         <div class="row">
             <div class="col-md-4">
@@ -86,7 +86,7 @@
     </div>
 
     <!-- Chatbot Contents3 :: CASE -->
-    <div class="container chatbotCaseBG">
+    <div class="container-fluid chatbotCaseBG">
         <div class="mg30_tb">
             <h2 class="ta"><strong>Case</strong></h2><br />
             <h4 class="ta">현대자동차 '코나(Kona)' 챗봇 서비스 <br /> - 차량 상품 / 시승 / 견적 정보 제공용 챗봇 -</h4><br />

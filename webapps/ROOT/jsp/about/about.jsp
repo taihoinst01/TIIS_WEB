@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- aboutMain IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
     	<img src="/image/menuAbout/bg_visual.png" class="maxW" />
     </div>
 
     <!-- aboutContents -->
-    <div class="container aboutContents">
+    <div class="container-fluid aboutContents">
     	<ul class="aboutChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/main.jsp';">Home</a></li>

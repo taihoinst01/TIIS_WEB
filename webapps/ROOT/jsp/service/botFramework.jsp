@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- service BotFramework IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/botFramework/bg_main.png" class="maxW" />
     </div>
 
     <!-- BotFramework Contents -->
-    <div class="container botFrameworkBG">
+    <div class="container-fluid botFrameworkBG">
         <ol class="botFrameworkChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
@@ -31,7 +31,7 @@
             <li class="active navMenu">Bot Framework</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
+        <div class="serviceCommonNavi"></div>
 
         <div class="row">
             <div class="col-md-4">

@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="/css/common.css" />
 <link rel="stylesheet" href="/css/sub.css" />
 
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=8ab4b7d03d0308fcef0b0fe6b0bd4cdd"></script>
+<script type="text/javascript" src="http://dapi.kakao.com/v2/maps/sdk.js?appkey=8ab4b7d03d0308fcef0b0fe6b0bd4cdd"></script>
 <%@ include file="/jsp/common/common_js.jsp" %>
 
 

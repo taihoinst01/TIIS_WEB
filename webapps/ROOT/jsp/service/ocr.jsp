@@ -16,12 +16,12 @@
 
     <!-- CONTENTS -->
     <!-- service OCR IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/ocr/bg_main.png" class="maxW" />
     </div>
 
     <!-- OCR Contents -->
-    <div class="container ocrBG">
+    <div class="container-fluid ocrBG">
         <ol class="ocrChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
@@ -31,7 +31,7 @@
             <li class="active navMenu">OCR</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
+        <div class="serviceCommonNavi"></div>
         <div class="row ta">
             <div class="col-md-4">
                 <h4>#1</h4>

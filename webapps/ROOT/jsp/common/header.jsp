@@ -4,6 +4,8 @@
      $(document).ready(function () {
          $('[data-submenu]').submenupicker();
 
+         $('.js-activated').dropdownHover().dropdown();
+
          $(".scrollInquiryImg").click(function(e){
          	alert('서비스 준비중입니다.');
          });
@@ -23,7 +25,7 @@
 	</div>
 <!-- top -->
 	<div class="container pd0_lr">
-	    <nav class="navbar navbar-default pd10 mg0_bottom">
+	    <nav class="navbar navbar-default headerStyle">
 	        <div class="container">
 	            <div class="navbar-header">
 	                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -41,13 +43,11 @@
 	                    <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/about/about.jsp';">About</a></li>
 
 	                    <li class="dropdown">
-	                        <a  href="javascript:void(0);"  class="dropdown-toggle" data-toggle="dropdown" role="button" data-submenu aria-expanded="false">Service <span class="caret"></span></a>
+	                        <a  href="javascript:void(0);"  class="dropdown-toggle js-activated" data-toggle="dropdown" role="button" data-submenu aria-expanded="false">Service <span class="caret"></span></a>
 	                        <ul class="dropdown-menu" role="menu">
 	                            <li class="dropdown-submenu">
-	                                <a href="javascript:void(0);">Cognitive</a>
+	                                <a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/cognitive.jsp';">Cognitive</a>
 	                                <ul class="dropdown-menu">
-	                                    <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/cognitive.jsp';">Cognitive</a></li>
-	                                    <li class="divider"></li>
 		                                <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/vision.jsp';">Vision</a></li>
 		                                <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/speech.jsp';">Speech</a></li>
 		                                <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/language.jsp';">Language</a></li>

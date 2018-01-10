@@ -16,11 +16,11 @@
 
     <!-- CONTENTS -->
     <!-- serviceCognitive IMG -->
-    <div class="container pd0_lr">
+    <div class="container-fluid pd0_lr">
         <img src="/image/menuService/cognitive/bg_main.png" class="maxW" />
     </div>
     <!-- serviceCognitive Contents -->
-    <div class="container cognitiveContentsBG">
+    <div class="container-fluid cognitiveContentsBG">
     	<ol class="cognitiveChannel">
             <li class="navLi">[</li>
             <li class="ib"><a href="javascript:void(0);" onclick="javascript:location.href='../../jsp/main.jsp';">Home</a></li>
