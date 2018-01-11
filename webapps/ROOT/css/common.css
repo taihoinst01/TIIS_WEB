@@ -8,7 +8,11 @@ html, body{font-family:nanumgothic !important}
 .mg15_lr{margin:0 15px}
 .mg10p_lr{margin:0 10%}
 .mg-10p_tb{margin:-10% 0}
+.mg15_top{margin-top:15px}
 .mg0_bottom{margin-bottom:0}
+.mg10_bottom{margin-bottom:10px}
+.mg20_bottom{margin-bottom:20px}
+.mg50_bottom{margin-bottom:50px}
 .mg30_r{margin-right:30px}
 .pd0{padding:0}
 .pd10{padding:10px}
@@ -38,6 +42,7 @@ html, body{font-family:nanumgothic !important}
 .cPoint{cursor:pointer}
 .navLi{color:#CCC; margin:0 5px;display:inline-block}
 .navMenu{color:#777;display:inline-block}
+.lh14{line-height:1.4}
 
 /* 페이지타이틀 */
 .pageTitle{display: none;}
