@@ -73,7 +73,7 @@
 					</h5>
 					<h4 class="pd10_tb"><strong>우리에게 연락하기</strong></h4>
 					<h5 class="lh14">이 개인 정보 보호 정책, 그 외 사이트 관련 질문이 있으시면 ㈜TAIHOINST (http://www.taihoinst.com/) 서울시 구로구 디지털로33길 55, 804 로 문의하십시오. ,
-						<br>help@tiis.co.kr
+						<br>TIIS_info@taihoinst.com
 					</h5>
 			    </div>
 			</div>
