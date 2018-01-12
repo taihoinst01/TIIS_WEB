@@ -30,12 +30,11 @@
             <li class="active navMenu">Cognitive</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="row ta">
+        <div class="row ta mg60_tb">
             <div class="col-md-12">
                 <h2><strong>Features</strong></h2>
             </div>
         </div>
-        <br /><br />
         <div class="row ta">
             <div class="col-md-4">
                 <div class="cognitiveFeatures1">
@@ -71,7 +70,6 @@
                 </div>
             </div>
         </div>
-        <br /><br /><br />
     </div>
     <!-- // CONTENTS -->
 

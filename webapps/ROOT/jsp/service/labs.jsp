@@ -39,28 +39,31 @@
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle1"><strong>Project Prague</strong></div>
-                    <div class="labsContentsTitleBGborder1">
-                        <h4 class="pd1em">Gesture based controls</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle1"><strong>Project Prague</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Gesture based controls</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle2"><strong>Project Cuzco</strong></div>
-                    <div class="labsContentsTitleBGborder2">
-                        <h4 class="pd1em">Event associated with Wikipedia</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle2"><strong>Project Cuzco</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Event associated with Wikipedia</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle3"><strong>Project Johannesburg</strong></div>
-                    <div class="labsContentsTitleBGborder3">
-                        <h4 class="pd1em">Route logistics</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle3"><strong>Project Johannesburg</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Route logistics</h5></div>
+					</div>
                 </div>
             </div>
         </div>
@@ -69,28 +72,31 @@
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle4"><strong>Project Nanjing</strong></div>
-                    <div class="labsContentsTitleBGborder4">
-                        <h4 class="pd1em">Isochrones calculations</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle4"><strong>Project Nanjing</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Isochrones calculations</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle5"><strong>Project Abu Dhabi</strong></div>
-                    <div class="labsContentsTitleBGborder5">
-                        <h4 class="pd1em">Distance matrices</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle5"><strong>Project Abu Dhabi</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Distance matrices</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="labsImg"></div>
-                    <div class="labsContentsTitle6"><strong>Project Wollongong</strong></div>
-                    <div class="labsContentsTitleBGborder6">
-                        <h4 class="pd1em">Score location attractiveness</h4>
-                    </div>
+                    <br>
+                    <div class="panel panel-default">
+				    	<h4 class="labsContentsTitle6"><strong>Project Wollongong</strong></h4>
+					  	<div class="panel-footer labsContentsSubBG"><h5>Score location attractiveness</h5></div>
+					</div>
                 </div>
             </div>
         </div>

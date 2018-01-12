@@ -40,7 +40,7 @@
         </ol>
         <div class="serviceCommonNavi"></div>
 
-		<div class="row ta">
+		<div class="row ta mg100_top">
             <div class="col-md-12">
                 <h2><strong>Download</strong></h2><br />
                 <h4>TIIS를 보다 자세히 알고싶다면 서비스 제안서를 받아보세요.</h4><br />
@@ -56,16 +56,15 @@
         </div>
         <br /><br />
 
-        <div class="row ta">
+        <div class="row ta mg100_bottom">
             <div class="col-md-12">
                 <h2><strong>Contact us</strong></h2><br />
-                <h4>TIIS의 문은 보두에게 열려있습니다. 언제든지 환영합니다.</h4><br />
+                <h4>TIIS의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4><br />
                 <div class="ta">
                     <img src="/image/menuSupport/map.png" class="maxW" />
                 </div><br />
             </div>
         </div>
-        <br /><br />
     </div>
 
     <!-- FOOTER -->

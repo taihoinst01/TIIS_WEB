@@ -40,30 +40,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="speechImg1"></div>
                     <br />
-                    <div class="speechContentsTitle1"><strong>Speech API</strong></div>
-                    <div class="speechContentsTitleBGborder1">
-                        <h4 class="pd1em">음성과 텍스트의 변환을 통해 의도 이해</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="speechContentsTitle1"><strong>Speech API</strong></h4>
+					  	<div class="panel-footer speechContentsSubBG"><h5>음성과 텍스트의 변환을 통해 의도 이해</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="speechImg2"></div>
                     <br />
-                    <div class="speechContentsTitle2"><strong>Speaker Recognition</strong></div>
-                    <div class="speechContentsTitleBGborder2">
-                        <h4 class="pd1em">App이 말하는 사람을 식별할 수 있는 기능</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="speechContentsTitle2"><strong>Speaker Recognition</strong></h4>
+					  	<div class="panel-footer speechContentsSubBG"><h5>App이 말하는 사람을 식별할 수 있는 기능</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="speechImg3"></div>
                     <br />
-                    <div class="speechContentsTitle3"><strong>Speaker Recognition</strong></div>
-                    <div class="speechContentsTitleBGborder3">
-                        <h4 class="pd1em">언제 어디서든 인식의 미세 조정 가능</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="speechContentsTitle3"><strong>Speaker Recognition</strong></h4>
+					  	<div class="panel-footer speechContentsSubBG"><h5>언제 어디서든 인식의 미세 조정 가능</h5></div>
+					</div>
                 </div>
             </div>
         </div>

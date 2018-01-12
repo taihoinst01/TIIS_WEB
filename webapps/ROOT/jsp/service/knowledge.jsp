@@ -39,30 +39,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg1"></div>
                     <br />
-                    <div class="knowledgeContentsTitle1"><strong>Academic Knowledge</strong></div>
-                    <div class="knowledgeContentsTitleBGborder1">
-                        <h4 class="pd1em">학술 논문, 저널, 저자 간의 관계 탐구</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle1"><strong>Academic Knowledge</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>학술 논문, 저널, 저자 간의 관계 탐구</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg2"></div>
                     <br />
-                    <div class="knowledgeContentsTitle2"><strong>Entity Linking</strong></div>
-                    <div class="knowledgeContentsTitleBGborder2">
-                        <h4 class="pd1em">사람, 위치, 사건에 대한 지식을 문맥 상으로 확대</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle2"><strong>Entity Linking</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>사람, 위치, 사건에 대한 지식을 문맥 상으로 확대</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg3"></div>
                     <br />
-                    <div class="knowledgeContentsTitle3"><strong>KnowLedge Exploration</strong></div>
-                    <div class="knowledgeContentsTitleBGborder3">
-                        <h4 class="pd1em">구조화 된 데이터를 통한 대화식 검색을 프로젝트에 추가</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle3"><strong>KnowLedge Exploration</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>구조화 된 데이터를 통한 대화식 검색을 프로젝트에 추가</h5></div>
+					</div>
                 </div>
             </div>
         </div>
@@ -72,30 +72,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg4"></div>
                     <br />
-                    <div class="knowledgeContentsTitle4"><strong>Recommendations</strong></div>
-                    <div class="knowledgeContentsTitleBGborder4">
-                        <h4 class="pd1em">고객에게 맞춤형 제품형 권장 사항 제공</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle4"><strong>Recommendations</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>고객에게 맞춤형 제품형 권장 사항 제공</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg5"></div>
                     <br />
-                    <div class="knowledgeContentsTitle5"><strong>QnA Maker</strong></div>
-                    <div class="knowledgeContentsTitleBGborder5">
-                        <h4 class="pd1em">정보나 해답에 쉽게 도달할 수 있도록 대화식 구성</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle5"><strong>QnA Maker</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>정보나 해답에 쉽게 도달할 수 있도록 대화식 구성</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="knowledgeImg6"></div>
                     <br />
-                    <div class="knowledgeContentsTitle6"><strong>Custom Decision Service</strong></div>
-                    <div class="knowledgeContentsTitleBGborder6">
-                        <h4 class="pd1em">상황에 맞는 의사 결정을 통해 맞춤형 경험 제공</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="knowledgeContentsTitle6"><strong>Custom Decision Service</strong></h4>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>상황에 맞는 의사 결정을 통해 맞춤형 경험 제공</h5></div>
+					</div>
                 </div>
             </div>
         </div>

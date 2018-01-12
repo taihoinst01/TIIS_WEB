@@ -40,30 +40,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg1"></div>
                     <br />
-                    <div class="languageContentsTitle1"><strong>Spell Check</strong></div>
-                    <div class="languageContentsTitleBGborder1">
-                        <h4 class="pd1em">App에서 맞춤법 오류 감지/수정</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle1"><strong>Spell Check</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>App에서 맞춤법 오류 감지/수정</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg2"></div>
                     <br />
-                    <div class="languageContentsTitle2"><strong>Linguistic Analysis</strong></div>
-                    <div class="languageContentsTitleBGborder2">
-                        <h4 class="pd1em">언어 분석으로 복잡한 텍스트를 쉽게 이해</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle2"><strong>Linguistic Analysis</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>언어 분석으로 복잡한 텍스트를 쉽게 이해</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg3"></div>
                     <br />
-                    <div class="languageContentsTitle3"><strong>Text Analytics</strong></div>
-                    <div class="languageContentsTitleBGborder3">
-                        <h4 class="pd1em">텍스트에서 정서, 핵심 문구, 주제 등 언어 검색</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle3"><strong>Text Analytics</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>텍스트에서 정서, 핵심 문구, 주제 등 언어 검색</h5></div>
+					</div>
                 </div>
             </div>
         </div>
@@ -73,30 +73,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg4"></div>
                     <br />
-                    <div class="languageContentsTitle4"><strong>Translator Text & Speech</strong></div>
-                    <div class="languageContentsTitleBGborder4">
-                        <h4 class="pd1em">음성 및 텍스트 번역 작업을 손쉽게 수행 가능</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle4"><strong>Translator Text & Speech</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>음성 및 텍스트 번역 작업을 손쉽게 수행 가능</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg5"></div>
                     <br />
-                    <div class="languageContentsTitle5"><strong>Web Language Model</strong></div>
-                    <div class="languageContentsTitleBGborder5">
-                        <h4 class="pd1em">Web 규모의 데이터에 대해 학습된 언어 모델 활용</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle5"><strong>Web Language Model</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>Web 규모의 데이터에 대해 학습된 언어 모델 활용</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="languageImg6"></div>
                     <br />
-                    <div class="languageContentsTitle6"><strong>Language Understanding</strong></div>
-                    <div class="languageContentsTitleBGborder6">
-                        <h4 class="pd1em">App에서 사용자의 명령을 이해하도록 유도</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="languageContentsTitle6"><strong>Language Understanding</strong></h4>
+					  	<div class="panel-footer languageContentsSubBG"><h5>App에서 사용자의 명령을 이해하도록 유도</h5></div>
+					</div>
                 </div>
             </div>
         </div>

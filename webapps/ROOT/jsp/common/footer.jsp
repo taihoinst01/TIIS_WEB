@@ -27,7 +27,7 @@
                     <span class="mainFooterFont cPoint" onclick="location.href='/jsp/common/privacyPolicy.jsp';">개인정보 처리방침</span>
                 </div>
 
-                <div class="ta">
+                <div>
                     <div class="footerFaceBook"></div>
                     <div class="footerGoogle"></div>
                     <div class="footerTwitter"></div>

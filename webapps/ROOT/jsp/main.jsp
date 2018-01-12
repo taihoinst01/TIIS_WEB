@@ -138,7 +138,7 @@
        		</div>
        		<div class="col-md-6">
 				<h4 class="borderBottom1 pd10_tb"><strong>TIIS(TAIHO INST Intelligence Service)</strong></h4>
-				<h5>
+				<h5 class="lh14">
 				타이호인스트의 풍부한 기술력을 바탕으로 고도화 된 AI 솔루션 입니다.<br>
 		       	시각 / 문자 / 음성 / 지식 / 검색 분야의 요구 사항을<br>
 		       	머신 러닝 및 고급 분석 기반으로 단순 결과 처리가 아닌 보다<br>
@@ -151,15 +151,15 @@
 
     <!-- Features -->
     <div class="container-fluid mainFeaturesBG">
-		<h2 class="ta">Features</h2>
+		<h2 class="ta mg60_tb"><strong>Features</strong></h2>
         <div class="row">
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures1 mg10p_lr">
+                <div class="thumbnail mainFeatures1">
                     <div class="mainFeaturesMore1 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg1"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>인지 기술</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>인지 기술</strong></h4>
                         <ul>
                             <li><h5>시각/문자/음성/지식/검색 분야 인지 기술</h5></li>
                             <li><h5>다양한 인식 방식을 API로 제공</h5></li>
@@ -169,12 +169,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures2 mg10p_lr">
+                <div class="thumbnail mainFeatures2">
                     <div class="mainFeaturesMore2 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg2"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>자연어 이해</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>자연어 이해</strong></h4>
                         <ul>
                             <li><h5>사용자의 자연어 명령 이해</h5></li>
                             <li><h5>간단한 언어 이해 모델 제작</h5></li>
@@ -184,12 +184,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures3 mg10p_lr">
+                <div class="thumbnail mainFeatures3">
                     <div class="mainFeaturesMore3 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg3"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>Bot Framework</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>Bot Framework</strong></h4>
                         <ul>
                             <li><h5>챗봇 구축을 위한 도구 및 서비스</h5></li>
                             <li><h5>Bot 빌더/개발자 포털/Bot 디렉토리 서비스</h5></li>
@@ -203,12 +203,12 @@
 
         <div class="row">
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures4 mg10p_lr">
+                <div class="thumbnail mainFeatures4">
                     <div class="mainFeaturesMore4 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg4"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>기계 학습</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>기계 학습</strong></h4>
                         <ul>
                             <li><h5>패턴 또는 추세 파악을 통한 미래의 이벤트 예측</h5></li>
                             <li><h5>예측 분석 모델링 및 서비스 관리</h5></li>
@@ -217,12 +217,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures5 mg10p_lr">
+                <div class="thumbnail mainFeatures5">
                     <div class="mainFeaturesMore5 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg5"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>클라우드 환경</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>클라우드 환경</strong></h4>
                         <ul>
                             <li><h5>쉽고 빠른 저비용의 안정적 서비스</h5></li>
                             <li><h5>클라우드 환경을 통한 Serverless 지향</h5></li>
@@ -231,12 +231,12 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures6 mg10p_lr">
+                <div class="thumbnail mainFeatures6">
                     <div class="mainFeaturesMore6 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg6"></div>
                     <div class="caption">
-                        <h3 class="ta"><strong>데이터 서비스 결합</strong></h3><br />
+                        <h4 class="mg40_tb ta"><strong>데이터 서비스 결합</strong></h4>
                         <ul>
                             <li><h5>온프레미스 기업데이터 연계</h5></li>
                             <li><h5>Power BI 임베디드를 이용한 애플리케이션 연계</h5></li>
@@ -245,19 +245,18 @@
                 </div>
             </div>
         </div>
-        <br /><br /><br />
     </div>
 
     <div class="mg10_tb"></div>
 
     <!-- Service -->
     <div class="container-fluid mainServiceBG">
-		<h2 class="ta">Service</h2>
-        <div class="row">
+		<h2 class="ta mg60_tb"><strong>Service</strong></h2>
+        <div class="row mg100_bottom">
             <div class="col-md-4">
                 <div class="mainServiceImg1"></div>
-                <h3 class="ta borderBottom pd10_tb">Chat Bot</h3>
-                <ul class="mg20_tb">
+                <h4 class="ta borderBottom pd10_tb"><strong>Chat Bot</strong></h4>
+                <ul class="mg20_tb mainServiceContents">
                     <li><h5>정보 제공용 챗봇 서비스</h5></li>
                     <li><h5>고객 대상 사이트/기업 내 그룹웨어/민원 해결 등 다양한 분야 개발 및 서비스 제공</h5></li>
                 </ul>
@@ -265,8 +264,8 @@
             </div>
             <div class="col-md-4">
                 <div class="mainServiceImg2"></div>
-                <h3 class="ta borderBottom pd10_tb">OCR</h3>
-                <ul class="mg20_tb">
+                <h4 class="ta borderBottom pd10_tb"><strong>OCR</strong></h4>
+                <ul class="mg20_tb mainServiceContents">
                     <li><h5>이미지나 영상의 문자를 판독</h5></li>
                     <li><h5>금융권 문서의 데이터화 등 작업에 폭넓게 이용</h5></li>
                 </ul>
@@ -274,25 +273,23 @@
             </div>
             <div class="col-md-4">
                 <div class="mainServiceImg3"></div>
-                <h3 class="ta borderBottom pd10_tb">Speech</h3>
-                <ul class="mg20_tb">
+                <h4 class="ta borderBottom pd10_tb"><strong>Speech</strong></h4>
+                <ul class="mg20_tb mainServiceContents">
                     <li><h5>음성 인식을 이용한 음성봇 서비스</h5></li>
                     <li><h5>고객 민원 해결을 위한 음성 인식 개발 및 서비스 제공</h5></li>
                 </ul>
                 <p class="ta"><div class="mainServiceMore3" onclick="javascript:location.href='/jsp/service/speech.jsp';"></div></p>
             </div>
         </div>
-        <br /><br /><br />
     </div>
 
     <div class="mg10_tb"></div>
 
     <!-- How It Works -->
     <div class="container-fluid mainHowitworkBG">
-		<h2 class="ta"><strong>How It Works</strong></h2>
-        <br />
+		<h2 class="ta titleGap"><strong>How It Works</strong></h2>
         <h4 class="ta">TIIS는 고객의 다양한 Needs를 빠르고 효율적으로 해결합니다.</h4>
-        <div class="row">
+        <div class="row mg100_bottom">
             <div class="col-md-12 ta">
                 <!--<img src="../image/main/howitwork/c04.png" class="maxW" />-->
                 <div class="mainHowitworkImg1">
@@ -323,7 +320,6 @@
                 </div>
             </div>
         </div>
-        <br /><br /><br />
     </div>
 
 	<div class="mg10"></div>
@@ -331,13 +327,13 @@
     <div class="container-fluid mainContactusBG">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="ta">Contact us</h2>
+                <h2 class="titleGap ta"><strong>Contact us</strong></h2>
             </div>
         </div>
         <div class="clearfix"></div>
-        <div class="row">
+        <div class="row mg100_bottom">
             <div class="col-md-6 ta">
-                <h4>TIIS와 함께하고 싶은가요? 언제든지 연락주세요.</h4>
+                <h4 class="mg40_bottom">TIIS와 함께하고 싶은가요? 언제든지 연락주세요.</h4>
                 <form class="form-horizontal" name="frm1">
                     <div class="form-group">
                         <input type="hidden" name="serviceName" id="serviceName" value="contactInsert" />
@@ -361,7 +357,7 @@
                     <div class="form-group">
                         <label for="contactText" class="col-sm-2 control-label">* 내용</label>
                         <div class="col-sm-10">
-                            <textarea class="form-control" rows="3" name="contactText" id="contactText" placeholder="내용을 입력해주세요."></textarea>
+                            <textarea class="form-control resize" rows="3" name="contactText" id="contactText" placeholder="내용을 입력해주세요."></textarea>
                         </div>
                     </div>
                     <div class="form-group ta">
@@ -370,7 +366,7 @@
                 </form>
             </div>
             <div class="col-md-6">
-                <h4>TIIS의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4>
+                <h4 class="mg40_bottom">TIIS의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4>
                 <img src="/image/main/c05_box.png" class="maxW" />
             </div>
         </div>

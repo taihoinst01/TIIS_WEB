@@ -40,40 +40,40 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg1"></div>
                     <br />
-                    <div class="visionContentsTitle1"><strong>Computer Vision</strong></div>
-                    <div class="visionContentsTitleBGborder1">
-                        <h4 class="pd1em">이미지에서 실행 가능한 정보를 추출</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle1"><strong>Computer Vision</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>이미지에서 실행 가능한 정보를 추출</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg2"></div>
                     <br />
-                    <div class="visionContentsTitle2"><strong>Content Moderator</strong></div>
-                    <div class="visionContentsTitleBGborder2">
-                        <h4 class="pd1em">사람의 검토 도구, 보완된 텍스트 및 이미지의 기계 보조 검토</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle2"><strong>Content Moderator</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>사람의 검토 도구, 보완된 텍스트 및 이미지의 기계 보조 검토</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg3"></div>
                     <br />
-                    <div class="visionContentsTitle3"><strong>Emotion</strong></div>
-                    <div class="visionContentsTitleBGborder3">
-                        <h4 class="pd1em">감정 인식</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle3"><strong>Emotion</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>감정 인식</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg4"></div>
                     <br />
-                    <div class="visionContentsTitle4"><strong>Face</strong></div>
-                    <div class="visionContentsTitleBGborder4">
-                        <h4 class="pd1em">사진에서 얼굴을 감지, 식별, 분석, 구성 및 태그 지정</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle4"><strong>Face</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>사진에서 얼굴을 감지, 식별, 분석, 구성 및 태그 지정</h5></div>
+					</div>
                 </div>
             </div>
         </div>
@@ -83,30 +83,30 @@
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg5"></div>
                     <br />
-                    <div class="visionContentsTitle5"><strong>Video API</strong></div>
-                    <div class="visionContentsTitleBGborder5">
-                        <h4 class="pd1em">App 내에서 동영상 분석, 편집 및 처리</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle5"><strong>Video API</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>App 내에서 동영상 분석, 편집 및 처리</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg6"></div>
                     <br />
-                    <div class="visionContentsTitle6"><strong>Video Indexer</strong></div>
-                    <div class="visionContentsTitleBGborder6">
-                        <h4 class="pd1em">비디오에서 스마트한 이해 처리</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle6"><strong>Video Indexer</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>비디오에서 스마트한 이해 처리</h5></div>
+					</div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg7"></div>
                     <br />
-                    <div class="visionContentsTitle7"><strong>Custom Vision Service</strong></div>
-                    <div class="visionContentsTitleBGborder7">
-                        <h4 class="pd1em">이미지의 특정 콘테네츠를 인식하도록 학습하는 사용자 정의 가능 웹 서비스</h4>
-                    </div>
+                    <div class="panel panel-default">
+				    	<h4 class="visionContentsTitle7"><strong>Custom Vision Service</strong></h4>
+					  	<div class="panel-footer visionContentsSubBG"><h5>이미지의 특정 콘테네츠를 인식하도록 학습하는 사용자 정의 가능 웹 서비스</h5></div>
+					</div>
                 </div>
             </div>
         </div>

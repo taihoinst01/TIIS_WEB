@@ -33,40 +33,37 @@
         </ol>
         <div class="serviceCommonNavi"></div>
 
-        <div class="row">
+        <div class="row mg100_tb">
             <div class="col-md-4">
                 <div class="thumbnail mg10p_lr">
-                    <h3 class="ta"><strong>쉬운 개발</strong></h3>
-                    <br />
+                    <h4 class="ta mg40_tb"><strong>쉬운 개발</strong></h4>
                     <div class="botFrameworkContentImg1"></div>
-                    <br />
+                    <br>
                     <ul class="h120">
-                        <li><h4>이미 광범위하게 사용중인 메시징 사용자에게 접근하기 가장 쉬운 방법</h4></li>
-                        <li><h4>언어 이해를 위한 LUIS 등의 도우미 서비스와 우수한 통합</h4></li>
+                        <li><h5 class="lh14">이미 광범위하게 사용중인 메시징 <br>사용자에게 접근하기 가장 쉬운 방법</h5></li>
+                        <li><h5 class="lh14">언어 이해를 위한 LUIS 등의<br> 도우미 서비스와 우수한 통합</h5></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail mg10p_lr">
-                    <h3 class="ta"><strong>사용자 편의</strong></h3>
-                    <br />
+                    <h4 class="ta mg40_tb"><strong>사용자 편의</strong></h4>
                     <div class="botFrameworkContentImg2"></div>
                     <br /><br />
                     <ul class="h100">
-                        <li><h4>다양한 대화 채널 선택 가능</h4></li>
-                        <li><h4>데이터의 신뢰성 및 관리 기능</h4></li>
+                        <li><h5 class="lh14">다양한 대화 채널 선택 가능</h5></li>
+                        <li><h5 class="lh14">데이터의 신뢰성 및 관리 기능</h5></li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="thumbnail mg10p_lr">
-                    <h3 class="ta"><strong>비즈니스</strong></h3>
-                    <br />
+                    <h4 class="ta mg40_tb"><strong>비즈니스</strong></h4>
                     <div class="botFrameworkContentImg3"></div>
                     <br /><br />
                     <ul class="h100">
-                        <li><h4>고객에게 새로운 경험과 폭넓은 환경 제공</h4></li>
-                        <li><h4>개발 비용 절감</h4></li>
+                        <li><h5 class="lh14">고객에게 새로운 경험과 폭넓은<br> 환경 제공</h5></li>
+                        <li><h5 class="lh14">개발 비용 절감</h5></li>
                     </ul>
                 </div>
             </div>

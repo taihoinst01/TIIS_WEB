@@ -32,33 +32,32 @@
             <li class="navLi">]</li>
         </ol>
         <div class="serviceCommonNavi"></div>
-        <div class="row ta">
+        <div class="row ta mg100_tb">
             <div class="col-md-4">
                 <h4>#1</h4>
                 <div class="thumbnail pd5p_lr mg10p_lr">
-                    <h3 class="ta"><strong>이미지 촬영</strong></h3><br />
+                    <h4 class="ta mg40_tb"><strong>이미지 촬영</strong></h4>
                     <div class="ocrContentImg1"></div><br /><br />
-                    <h4 class="h60">OCR 대상물 촬영</h4>
+                    <h5 class="h60 lh14">OCR 대상물 촬영</h5>
                 </div>
             </div>
             <div class="col-md-4">
                 <h4>#2</h4>
                 <div class="thumbnail pd5p_lr mg10p_lr">
-                    <h3 class="ta"><strong>분석 및 데이터 인식</strong></h3><br />
+                    <h4 class="ta mg40_tb"><strong>분석 및 데이터 인식</strong></h4>
                     <div class="ocrContentImg2"></div><br /><br />
-                    <h4 class="h60">대상물의 텍스트 분석과 필드 추출을 통해 데이터 인식</h4>
+                    <h5 class="h60 lh14">대상물의 텍스트 분석과 필드 추출을 통해 데이터 인식</h5>
                 </div>
             </div>
             <div class="col-md-4">
                 <h4>#3</h4>
                 <div class="thumbnail pd5p_lr mg10p_lr">
-                    <h3 class="ta"><strong>결과 활용</strong></h3><br />
+                    <h4 class="ta mg40_tb"><strong>결과 활용</strong></h4>
                     <div class="ocrContentImg3"></div><br /><br />
-                    <h4 class="h60">인식 결과를 다양한 응용 프로그램에 활용</h4>
+                    <h5 class="h60 lh14">인식 결과를 다양한 응용 프로그램에 활용</h5>
                 </div>
             </div>
         </div>
-        <br /><br /><br />
     </div>
 
     <!-- FOOTER -->

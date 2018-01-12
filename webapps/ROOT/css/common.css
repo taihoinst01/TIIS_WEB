@@ -3,16 +3,23 @@ html, body{font-family:nanumgothic !important}
 .mg5_tb{margin:5px 0;}
 .mg10_tb{margin:10px 0;}
 .mg20_tb{margin:20px 0;}
+.mg30_tb{margin:30px 0;}
 .mg40_tb{margin:40px 0;}
+.mg60_tb{margin:60px 0;}
+.mg100_tb{margin:100px 0;}
 .mg5_lr{margin:0 5px}
 .mg15_lr{margin:0 15px}
 .mg10p_lr{margin:0 10%}
 .mg-10p_tb{margin:-10% 0}
 .mg15_top{margin-top:15px}
+.mg100_top{margin-top:100px}
 .mg0_bottom{margin-bottom:0}
 .mg10_bottom{margin-bottom:10px}
 .mg20_bottom{margin-bottom:20px}
+.mg30_bottom{margin-bottom:30px}
+.mg40_bottom{margin-bottom:40px}
 .mg50_bottom{margin-bottom:50px}
+.mg100_bottom{margin-bottom:100px}
 .mg30_r{margin-right:30px}
 .pd0{padding:0}
 .pd10{padding:10px}
@@ -25,6 +32,7 @@ html, body{font-family:nanumgothic !important}
 .pd20_top{padding-top:20px}
 .pd20_bottom{padding-bottom:20px}
 .pd1em{padding:1em}
+.titleGap{margin:70px 0 30px}
 .ib {display:inline-block}
 .ta {text-align: center}
 .divCenter{display:table-cell; vertical-align:middle; text-align:center}
@@ -38,11 +46,12 @@ html, body{font-family:nanumgothic !important}
 .h100{height:100px}
 .h120{height:120px}
 .borderBottom{border-bottom:3px solid #EAEAE8}
-.borderBottom1{border-bottom:2px solid #777}
+.borderBottom1{border-bottom:1px solid #777}
 .cPoint{cursor:pointer}
 .navLi{color:#CCC; margin:0 5px;display:inline-block}
 .navMenu{color:#777;display:inline-block}
 .lh14{line-height:1.4}
+.resize{resize:none}
 
 /* 페이지타이틀 */
 .pageTitle{display: none;}

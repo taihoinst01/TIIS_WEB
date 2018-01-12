@@ -32,10 +32,9 @@
             <li class="navLi">]</li>
         </ol>
         <div class="serviceCommonNavi"></div>
-        <div class="ta">
+        <div class="ta mg100_tb">
             <img src="/image/menuService/machineLearning/c01_box.png" class="maxW" />
         </div>
-        <br /><br /><br />
 	</div>
     <!-- FOOTER -->
     <%@ include file="/jsp/common/footer.jsp" %>
