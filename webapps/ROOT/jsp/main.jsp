@@ -154,7 +154,7 @@
 		<h2 class="ta mg60_tb"><strong>Features</strong></h2>
         <div class="row">
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures1">
+                <div class="thumbnail mainFeatures1" onclick="javascript:location.href='/jsp/service/cognitive.jsp';">
                     <div class="mainFeaturesMore1 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg1"></div>
@@ -169,7 +169,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures2">
+                <div class="thumbnail mainFeatures2" onclick="javascript:location.href='/jsp/service/luis.jsp';">
                     <div class="mainFeaturesMore2 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg2"></div>
@@ -184,7 +184,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures3">
+                <div class="thumbnail mainFeatures3" onclick="javascript:location.href='/jsp/service/botFramework.jsp';">
                     <div class="mainFeaturesMore3 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg3"></div>
@@ -203,7 +203,7 @@
 
         <div class="row">
             <div class="col-md-4">
-                <div class="thumbnail mainFeatures4">
+                <div class="thumbnail mainFeatures4" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';">
                     <div class="mainFeaturesMore4 fr"></div>
                     <br /><br />
                     <div class="mainFeaturesImg4"></div>
@@ -218,7 +218,7 @@
             </div>
             <div class="col-md-4">
                 <div class="thumbnail mainFeatures5">
-                    <div class="mainFeaturesMore5 fr"></div>
+                    <!-- <div class="mainFeaturesMore5 fr"></div> -->
                     <br /><br />
                     <div class="mainFeaturesImg5"></div>
                     <div class="caption">
@@ -232,7 +232,7 @@
             </div>
             <div class="col-md-4">
                 <div class="thumbnail mainFeatures6">
-                    <div class="mainFeaturesMore6 fr"></div>
+                    <!-- <div class="mainFeaturesMore6 fr"></div> -->
                     <br /><br />
                     <div class="mainFeaturesImg6"></div>
                     <div class="caption">

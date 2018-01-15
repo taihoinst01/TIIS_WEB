@@ -36,14 +36,14 @@
 .mainFeaturesImg5 {width: 70px;height: 70px;background: url(../image/main/features/icon_cloud.png) no-repeat;background-size: 100%;margin: 15px auto 0}
 .mainFeaturesMore5{width: 20px;height: 20px;background: url(../image/main/features/btd_plus.png) no-repeat;background-size: 100%;margin:  15px}
 .mainFeatures5{min-height:357px}
-.mainFeatures5:hover{background-color:#434343;cursor:pointer}
+.mainFeatures5:hover{background-color:#434343}
 .mainFeatures5:hover>div{color:#FFF}
 .mainFeatures5:hover .mainFeaturesImg5 {width: 70px;height: 70px;background: url(../image/main/features/icon_cloud_hover.png) no-repeat;background-size: 100%;margin: 15px auto 0}
 .mainFeatures5:hover .mainFeaturesMore5{width: 20px;height: 20px;background: url(../image/main/features/btd_plus_hover.png) no-repeat;background-size: 100%;margin:  15px}
 .mainFeaturesImg6 {width: 70px;height: 70px;background: url(../image/main/features/icon_data.png) no-repeat;background-size: 100%;margin: 15px auto 0}
 .mainFeaturesMore6{width: 20px;height: 20px;background: url(../image/main/features/btd_plus.png) no-repeat;background-size: 100%;margin:  15px}
 .mainFeatures6{min-height:357px}
-.mainFeatures6:hover{background-color:#434343;cursor:pointer}
+.mainFeatures6:hover{background-color:#434343}
 .mainFeatures6:hover>div{color:#FFF}
 .mainFeatures6:hover .mainFeaturesImg6 {width: 70px;height: 70px;background: url(../image/main/features/icon_data_hover.png) no-repeat;background-size: 100%;margin: 15px auto 0}
 .mainFeatures6:hover .mainFeaturesMore6{width: 20px;height: 20px;background: url(../image/main/features/btd_plus_hover.png) no-repeat;background-size: 100%;margin:  15px}

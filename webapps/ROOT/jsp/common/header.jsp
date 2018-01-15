@@ -59,7 +59,7 @@
 	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/botFramework.jsp';">Bot Framework</a></li>
 	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/chatBot.jsp';">ChatBot</a></li>
 	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/luis.jsp';">Luis</a></li>
-	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/mechineLearning.jsp';">Machine Learning</a></li>
+	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';">Machine Learning</a></li>
 	                            <li><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/ocr.jsp';">OCR</a></li>
 	                        </ul>
 	                    </li>

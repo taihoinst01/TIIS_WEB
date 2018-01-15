@@ -55,7 +55,7 @@
                         <h5 class="mainFooterFont mg20_bottom"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/chatBot.jsp';"><strong>ChatBot</strong></a></h5>
                         <h5 class="mainFooterFont mg20_bottom"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/luis.jsp';"><strong>LUIS</strong></a></h5>
                         <h5 class="mainFooterFont mg20_bottom"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/ocr.jsp';"><strong>OCR</strong></a></h5>
-                        <h5 class="mainFooterFont mg20_bottom"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/mechineLearning.jsp';"><strong>Machine Learning</strong></a></h5>
+                        <h5 class="mainFooterFont mg20_bottom"><a href="javascript:void(0);" onclick="javascript:location.href='/jsp/service/machineLearning.jsp';"><strong>Machine Learning</strong></a></h5>
                     </div>
                 </div>
             </div>
