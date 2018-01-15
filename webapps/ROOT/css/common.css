@@ -58,7 +58,9 @@ html, body{font-family:nanumgothic !important}
 
 /* scrolling */
 .floating{padding:20px;position:fixed;right:1%;top:55%;margin-right:0px;text-align:center;width:150px;z-index:999}
-.scrollInquiryImg{width:56px;height:140px;background: url(../image/main/btd_inquiry.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
-.scrollTopImg{width:56px;height:56px;background: url(../image/main/btd_top.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
-.scrollChatImg{width:56px;height:56px;background: url(../image/main/btd_chat.png) no-repeat;background-size: 100%;margin: 0 auto}
-.scrollChatImg:hover{width:56px;height:56px;background: url(../image/main/btd_chat_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.scrollInquiryImg{width:58px;height:140px;background: url(../image/main/btd_inquiry.png) no-repeat;background-size: 100%;margin: 0 auto;border:1px solid #FFF;border-radius:4px}
+.scrollInquiryImg:hover{width:58px;height:140px;background: url(../image/main/btd_inquiry_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.scrollTopImg{width:58px;height:56px;background: url(../image/main/btd_top.png) no-repeat;background-size: 100%;margin: 0 auto;border:1px solid #FFF;border-radius:4px}
+.scrollTopImg:hover{width:58px;height:56px;background: url(../image/main/btd_top_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
+.scrollChatImg{width:58px;height:56px;background: url(../image/main/btd_chat.png) no-repeat;background-size: 100%;margin: 0 auto;border:1px solid #FFF;border-radius:4px}
+.scrollChatImg:hover{width:58px;height:56px;background: url(../image/main/btd_chat_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}

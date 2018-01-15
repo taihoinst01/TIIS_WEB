@@ -9,7 +9,7 @@
 <%@ include file="/jsp/common/common_include.jsp" %>
 </head>
 <body>
-    <span class="pageTitle">:: TIIS :: [Service - Vision]</span>
+    <span class="pageTitle">:: TIIZ :: [Service - Vision]</span>
     <!-- HEADER -->
     <%@ include file="/jsp/common/header.jsp" %>
     <!-- // HEADER -->
@@ -33,9 +33,8 @@
             <li class="active navMenu">Vision</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
 
-        <div class="row">
+        <div class="row mg100_top">
             <div class="col-md-3">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg1"></div>
@@ -78,7 +77,7 @@
             </div>
         </div>
         <br />
-        <div class="row">
+        <div class="row mg100_bottom">
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="visionImg5"></div>
@@ -110,9 +109,6 @@
                 </div>
             </div>
         </div>
-        <br /><br />
-
-
     </div>
 	<!-- service Button -->
     <%@ include file="/jsp/service/serviceBtn.jsp" %>

@@ -19,7 +19,7 @@
 
                 <div class="mainFooterEmail">
                     <div class="mainFooterImg4"></div>
-                    <span class="mainFooterFont cPoint" onclick="location.href='mailto:TIIS_info@taihoinst.com';">TIIS_info@taihoinst.com</span>
+                    <span class="mainFooterFont cPoint" onclick="location.href='mailto:TIIZ_info@taihoinst.com';">TIIZ_info@taihoinst.com</span>
                 </div>
 
 				<div class="mainFooterPerson">
@@ -35,7 +35,7 @@
             </div>
 
             <div class="col-md-5 footerForm2">
-                <div class="mainFooterTiis"></div>
+                <div class="mainFooterTiiz"></div>
                 <div class="row mg10_tb">
                     <div class="col-md-6">
                         <h5 class="mainFooterFont">

@@ -9,7 +9,7 @@
 <%@ include file="/jsp/common/common_include.jsp" %>
 </head>
 <body>
-    <span class="pageTitle">:: TIIS :: [Service - OCR]</span>
+    <span class="pageTitle">:: TIIZ :: [Service - OCR]</span>
     <!-- HEADER -->
     <%@ include file="/jsp/common/header.jsp" %>
     <!-- // HEADER -->

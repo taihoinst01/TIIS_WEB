@@ -9,7 +9,7 @@
 <%@ include file="/jsp/common/common_include.jsp" %>
 </head>
 <body>
-    <span class="pageTitle">:: TIIS :: [Service - Speech]</span>
+    <span class="pageTitle">:: TIIZ :: [Service - Speech]</span>
     <!-- HEADER -->
     <%@ include file="/jsp/common/header.jsp" %>
     <!-- // HEADER -->
@@ -33,9 +33,8 @@
             <li class="active navMenu">Speech</li>
             <li class="navLi">]</li>
         </ol>
-        <div class="page-header"></div>
 
-        <div class="row">
+        <div class="row mg100_tb">
             <div class="col-md-4">
                 <div class="thumbnail serviceContentsBG pd10p_lr">
                     <div class="speechImg1"></div>
@@ -67,7 +66,6 @@
                 </div>
             </div>
         </div>
-        <br /><br />
     </div>
     <!-- service Button -->
     <%@ include file="/jsp/service/serviceBtn.jsp" %>

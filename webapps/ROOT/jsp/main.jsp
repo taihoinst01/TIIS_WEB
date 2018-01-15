@@ -134,10 +134,10 @@
 		<div class="row">
         	<div class="col-md-6">
        			<h5>OVERVIEW</h5>
-       			<h3><strong>똑똑한 인공지능 서비스 TIIS</strong></h3>
+       			<h3><strong>똑똑한 인공지능 서비스 TIIZ</strong></h3>
        		</div>
        		<div class="col-md-6">
-				<h4 class="borderBottom1 pd10_tb"><strong>TIIS(TAIHO INST Intelligence Service)</strong></h4>
+				<h4 class="borderBottom1 pd10_tb"><strong>TIIZ(TAIHO INST Intelligence Zone)</strong></h4>
 				<h5 class="lh14">
 				타이호인스트의 풍부한 기술력을 바탕으로 고도화 된 AI 솔루션 입니다.<br>
 		       	시각 / 문자 / 음성 / 지식 / 검색 분야의 요구 사항을<br>
@@ -288,7 +288,7 @@
     <!-- How It Works -->
     <div class="container-fluid mainHowitworkBG">
 		<h2 class="ta titleGap"><strong>How It Works</strong></h2>
-        <h4 class="ta">TIIS는 고객의 다양한 Needs를 빠르고 효율적으로 해결합니다.</h4>
+        <h4 class="ta">TIIZ는 고객의 다양한 Needs를 빠르고 효율적으로 해결합니다.</h4>
         <div class="row mg100_bottom">
             <div class="col-md-12 ta">
                 <!--<img src="../image/main/howitwork/c04.png" class="maxW" />-->
@@ -301,9 +301,9 @@
                 <div class="mainHowitworkArrow"></div>
 
                 <div class="mainHowitworkImg2">
-                    <h4 class="mainHowitworkTitle2"><strong>TIIS</strong></h4>
+                    <h4 class="mainHowitworkTitle2"><strong>TIIZ</strong></h4>
                     <h5 class="mainHowitworkText2">
-                        TIIS는 고객의 요구를 해결하기 위해
+                        TIIZ는 고객의 요구를 해결하기 위해
                         시각/음성/언어/지식/검색 등 다양한 분야의 인공지능 기술력을 확보하고 있으며,
                         미래 예측 분석을 통해 빠르고, 쉽고, 명확한 해결을 제시합니다.
                     </h5>
@@ -314,7 +314,7 @@
                 <div class="mainHowitworkImg3">
                     <h4 class="mainHowitworkTitle3"><strong>Meet the Needs!</strong></h4>
                     <h5 class="mainHowitworkText3">
-                        무한 성장의 원동력, TIIS와 함께라면
+                        무한 성장의 원동력, TIIZ와 함께라면
                         고객 가치 및 고객 만족을 이룰 수 있습니다.
                     </h5>
                 </div>
@@ -333,7 +333,7 @@
         <div class="clearfix"></div>
         <div class="row mg100_bottom">
             <div class="col-md-6 ta">
-                <h4 class="mg40_bottom">TIIS와 함께하고 싶은가요? 언제든지 연락주세요.</h4>
+                <h4 class="mg40_bottom">TIIZ와 함께하고 싶은가요? 언제든지 연락주세요.</h4>
                 <form class="form-horizontal" name="frm1">
                     <div class="form-group">
                         <input type="hidden" name="serviceName" id="serviceName" value="contactInsert" />
@@ -366,7 +366,7 @@
                 </form>
             </div>
             <div class="col-md-6">
-                <h4 class="mg40_bottom">TIIS의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4>
+                <h4 class="mg40_bottom">TIIZ의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4>
                 <img src="/image/main/c05_box.png" class="maxW" />
             </div>
         </div>

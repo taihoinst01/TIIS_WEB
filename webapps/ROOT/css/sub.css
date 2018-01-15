@@ -44,7 +44,7 @@
 .cognitiveFeaturesImg6:hover {width: 100%;height: 349px;max-width:324px;background: url(../image/menuService/cognitive/box_h_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
 
 /* service Vision CSS */
-.visionContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.visionContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .visionImg1 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_c_v.png) no-repeat;background-size: 100%;margin: 0 auto}
 .visionContentsTitle1{background-color:#FDA900;margin:0;padding:10px}
 .visionImg2 {width: 110px;height: 110px;background: url(../image/menuService/vision/icon_c_m.png) no-repeat;background-size: 100%;margin: 0 auto}
@@ -61,7 +61,7 @@
 .visionContentsTitle7{background-color:#FF4E1A;margin:0;padding:10px}
 
 /* service Speech CSS */
-.speechContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.speechContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .speechImg1 {width: 110px;height: 110px;background: url(../image/menuService/speech/icon_s_a.png) no-repeat;background-size: 100%;margin: 0 auto}
 .speechContentsTitle1{background-color:#FDAB00;margin:0;padding:10px}
 .speechImg2 {width: 110px;height: 110px;background: url(../image/menuService/speech/icon_s_r.png) no-repeat;background-size: 100%;margin: 0 auto}
@@ -70,7 +70,7 @@
 .speechContentsTitle3{background-color:#FF491B;margin:0;padding:10px}
 
 /* service Language CSS */
-.languageContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.languageContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .languageImg1 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_s_c.png) no-repeat;background-size: 100%;margin: 0 auto}
 .languageContentsTitle1{background-color:#FDA900;margin:0;padding:10px}
 .languageImg2 {width: 110px;height: 110px;background: url(../image/menuService/language/icon_l_a.png) no-repeat;background-size: 100%;margin: 0 auto}
@@ -85,7 +85,7 @@
 .languageContentsTitle6{background-color:#FF4E1A;margin:0;padding:10px}
 
 /* service Knowledge CSS */
-.knowledgeContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.knowledgeContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .knowledgeImg1 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_a_k.png) no-repeat;background-size: 100%;margin: 0 auto}
 .knowledgeContentsTitle1{background-color:#FDA900;margin:0;padding:10px}
 .knowledgeImg2 {width: 110px;height: 110px;background: url(../image/menuService/knowledge/icon_e_l.png) no-repeat;background-size: 100%;margin: 0 auto}
@@ -100,7 +100,7 @@
 .knowledgeContentsTitle6{background-color:#FF4E1A;margin:0;padding:10px}
 
 /* service Search CSS */
-.searchContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.searchContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .searchImg1 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_a_a.png) no-repeat;background-size: 100%;margin: 0 auto}
 .searchContentsTitle1{background-color:#FDA900;margin:0;padding:10px}
 .searchImg2 {width: 110px;height: 110px;background: url(../image/menuService/search/icon_i_s_p.png) no-repeat;background-size: 100%;margin: 0 auto}
@@ -117,7 +117,7 @@
 .searchContentsTitle7{background-color:#FF4E1A;margin:0;padding:10px}
 
 /* service Labs CSS */
-.labsContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:80px}
+.labsContentsSubBG{background-color:#FFFAEE;border:1px solid #FDA900;padding:1em;min-height:95px}
 .labsImg {width: 110px;height: 110px;background: url(../image/menuService/labs/icon_labs.png) no-repeat;background-size: 100%;margin: 0 auto}
 .labsContentsTitle1{background-color:#FDA900;margin:0;padding:10px}
 .labsContentsTitle2{background-color:#FE9307;margin:0;padding:10px}

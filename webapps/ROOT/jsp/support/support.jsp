@@ -18,7 +18,7 @@
 </script>
 </head>
 <body>
-    <span class="pageTitle">:: TIIS :: [Service - Support]</span>
+    <span class="pageTitle">:: TIIZ :: [Service - Support]</span>
     <!-- HEADER -->
     <%@ include file="/jsp/common/header.jsp" %>
     <!-- // HEADER -->
@@ -43,7 +43,7 @@
 		<div class="row ta mg100_top">
             <div class="col-md-12">
                 <h2><strong>Download</strong></h2><br />
-                <h4>TIIS를 보다 자세히 알고싶다면 서비스 제안서를 받아보세요.</h4><br />
+                <h4>TIIZ를 보다 자세히 알고싶다면 서비스 제안서를 받아보세요.</h4><br />
                 <div class="ta">
                     <div class="supportDownImg"></div>
                     <a href="javascript:void(0);" id="newfilename"><img class="supportBtnImg" /></a>
@@ -59,7 +59,7 @@
         <div class="row ta mg100_bottom">
             <div class="col-md-12">
                 <h2><strong>Contact us</strong></h2><br />
-                <h4>TIIS의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4><br />
+                <h4>TIIZ의 문은 모두에게 열려있습니다. 언제든지 환영합니다.</h4><br />
                 <div class="ta">
                     <img src="/image/menuSupport/map.png" class="maxW" />
                 </div><br />
