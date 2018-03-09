@@ -239,7 +239,7 @@
                         <h4 class="mg40_tb ta"><strong>데이터 서비스 결합</strong></h4>
                         <ul>
                             <li><h5>온프레미스 기업데이터 연계</h5></li>
-                            <li><h5>Power BI 임베디드를 이용한 애플리케이션 연계</h5></li>
+                            <li><h5>비즈니스 통찰력 확보를 위한 BI 연계</h5></li>
                         </ul>
                     </div>
                 </div>
@@ -255,7 +255,7 @@
         <div class="row mg100_bottom">
             <div class="col-md-4">
                 <div class="mainServiceImg1"></div>
-                <h4 class="ta borderBottom pd10_tb"><strong>Chat Bot</strong></h4>
+                <h4 class="ta borderBottom pd10_tb"><strong>ChatBot</strong></h4>
                 <ul class="mg20_tb mainServiceContents">
                     <li><h5>정보 제공용 챗봇 서비스</h5></li>
                     <li><h5>고객 대상 사이트/기업 내 그룹웨어/민원 해결 등 다양한 분야 개발 및 서비스 제공</h5></li>

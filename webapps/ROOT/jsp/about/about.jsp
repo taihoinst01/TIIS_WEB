@@ -37,7 +37,7 @@
         <br />
         <div class="row ta">
             <div class="col-md-8 col-md-offset-2">
-                <h4 class="ta mg40_bottom">2005년부터 타이호인스트는 산업군에 대한 이해와 기술력, IT 전문인력을 바탕으로 고객의 경쟁력 향상과 가치창출을 극대화 합니다.</h4>
+                <h4 class="ta mg40_bottom">2005년부터 타이호인스트는 다양한 산업군에 대한 이해와 기술력, IT 전문인력을 바탕으로 고객의 경쟁력 향상과 가치창출을 극대화 합니다.</h4>
             </div>
         </div>
         <br />

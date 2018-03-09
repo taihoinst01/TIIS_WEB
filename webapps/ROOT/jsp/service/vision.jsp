@@ -104,7 +104,7 @@
                     <br />
                     <div class="panel panel-default">
 				    	<h4 class="visionContentsTitle7"><strong>Custom Vision Service</strong></h4>
-					  	<div class="panel-footer visionContentsSubBG"><h5>이미지의 특정 콘테네츠를 인식하도록 학습하는 사용자 정의 가능 웹 서비스</h5></div>
+					  	<div class="panel-footer visionContentsSubBG"><h5>이미지의 특정 콘텐츠를 인식하도록 학습하는 사용자 정의 가능 웹 서비스</h5></div>
 					</div>
                 </div>
             </div>

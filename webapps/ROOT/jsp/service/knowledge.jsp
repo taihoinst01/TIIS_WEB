@@ -73,7 +73,7 @@
                     <br />
                     <div class="panel panel-default">
 				    	<h4 class="knowledgeContentsTitle4"><strong>Recommendations</strong></h4>
-					  	<div class="panel-footer knowledgeContentsSubBG"><h5>고객에게 맞춤형 제품형 권장 사항 제공</h5></div>
+					  	<div class="panel-footer knowledgeContentsSubBG"><h5>고객 맞춤형 권장 사항 제공</h5></div>
 					</div>
                 </div>
             </div>

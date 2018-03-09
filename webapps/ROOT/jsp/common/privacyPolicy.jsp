@@ -25,7 +25,7 @@
     	<div class="row policyContents">
 			<div class="col-md-12 policyContentsBorder">
 			    <div class="policyBG">
-			   		<h5 class="pd5_tb">이 개인 정보 보호 정책은 ㈜TAIHOINST가 http://www.tiis.co.kr/ 웹 사이트 (이하 "사이트")의 사용자 (각각 "사용자")로부터 수집 한 정보를 수집,
+			   		<h5 class="pd5_tb">이 개인 정보 보호 정책은 ㈜TAIHOINST가 http://www.tiiz.co.kr/ 웹 사이트 (이하 "사이트")의 사용자 (각각 "사용자")로부터 수집 한 정보를 수집,
 						사용, 유지 및 공개하는 방식을 규율합니다.</h5>
 
 					<h4 class="pd10_tb"><strong>개인 식별 정보</strong></h4>
@@ -73,7 +73,7 @@
 					</h5>
 					<h4 class="pd10_tb"><strong>우리에게 연락하기</strong></h4>
 					<h5 class="lh14">이 개인 정보 보호 정책, 그 외 사이트 관련 질문이 있으시면 ㈜TAIHOINST (http://www.taihoinst.com/) 서울시 구로구 디지털로33길 55, 804 로 문의하십시오. ,
-						<br>TIIS_info@taihoinst.com
+						<br>TIIZ_info@taihoinst.com
 					</h5>
 			    </div>
 			</div>

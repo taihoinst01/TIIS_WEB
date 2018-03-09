@@ -61,7 +61,7 @@
                     <br />
                     <div class="panel panel-default">
 				    	<h4 class="searchContentsTitle3"><strong>News Search API</strong></h4>
-					  	<div class="panel-footer searchContentsSubBG"><h5>뚜렷하고 시기적절한 뉴스 검색</h5></div>
+					  	<div class="panel-footer searchContentsSubBG"><h5>명확하고 시기적절한 뉴스 검색</h5></div>
 					</div>
                 </div>
             </div>
