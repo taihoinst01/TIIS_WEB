@@ -282,7 +282,7 @@
             </div>
 
             <div class="clearfix"></div>
-            <div class="col-md-12 ta">
+            <div class="col-md-12 mg50_top ta">
             	<iframe id='video' src='https://www.youtube.com/embed/2rL2IYehcPU ' frameborder='0' allowfullscreen style="width:100%; max-width:800px; height:450px"></iframe>
             </div>
         </div>
