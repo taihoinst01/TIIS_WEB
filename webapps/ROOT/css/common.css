@@ -57,7 +57,7 @@ html, body{font-family:nanumgothic !important}
 .pageTitle{display: none;}
 
 /* scrolling */
-.floating{padding:20px;position:fixed;right:1%;top:55%;margin-right:0px;text-align:center;width:150px;z-index:999}
+.floating{padding:20px;position:fixed;right:0;top:55%;margin-right:0px;text-align:center;z-index:999}
 .scrollInquiryImg{width:58px;height:140px;background: url(../image/main/btd_inquiry.png) no-repeat;background-size: 100%;margin: 0 auto;border:1px solid #FFF;border-radius:4px}
 .scrollInquiryImg:hover{width:58px;height:140px;background: url(../image/main/btd_inquiry_hover.png) no-repeat;background-size: 100%;margin: 0 auto;cursor:pointer}
 .scrollTopImg{width:58px;height:56px;background: url(../image/main/btd_top.png) no-repeat;background-size: 100%;margin: 0 auto;border:1px solid #FFF;border-radius:4px}

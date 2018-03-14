@@ -40,6 +40,7 @@
                     <div class="ocrContentImg1"></div><br /><br />
                     <h5 class="h60 lh14">OCR 대상물 촬영</h5>
                 </div>
+                <div class="ocrArrow"></div>
             </div>
             <div class="col-md-4">
                 <h4>#2</h4>
@@ -48,6 +49,7 @@
                     <div class="ocrContentImg2"></div><br /><br />
                     <h5 class="h60 lh14">대상물의 텍스트 분석과 필드 추출을 통해 데이터 인식</h5>
                 </div>
+                <div class="ocrArrow"></div>
             </div>
             <div class="col-md-4">
                 <h4>#3</h4>
