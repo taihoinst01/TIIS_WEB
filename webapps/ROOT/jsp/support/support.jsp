@@ -11,7 +11,7 @@
 <script type="text/javascript">
     $(document).ready(function() {
         $('a#newfilename').attr({target: '_blank',
-        href  : '/TIIS AI Services Proposal_v1.2.00_171221.pdf'});
+        href  : '/TIIZ_AI Service_v1.0.00_180315.pdf'});
     });
 
 
