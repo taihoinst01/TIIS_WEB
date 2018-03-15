@@ -84,7 +84,7 @@
             <h4 class="ta lh14">현대자동차 '코나(Kona)' 챗봇 서비스 <br /> - 차량 상품 / 시승 / 견적 정보 제공용 챗봇 -</h4>
         </div>
         <!--<div class="chatbotLookBtnImg" onclick="javascript:location.href='http://www.hyundai.com/kr/showroom.do?carCd1=RV104&WT.ac=direct_carkind_kona';"></div>-->
-		<div class="chatbotLookBtnImg" onclick="javascript:location.href='https://www.hyundai.com/kr/ko/vehicles/kona/highlights';"></div>
+		<a class="chatbotLookBtnImg" href="javascript:location.href='https://www.hyundai.com/kr/ko/vehicles/kona/highlights';" target="_blank">
         <div class="row mg100_bottom">
             <div class="col-md-12 ta">
                 <img src="/image/menuService/chatbot/img.png" class="maxW" />
