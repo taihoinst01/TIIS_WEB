@@ -86,7 +86,7 @@
 
         <div class="row ta">
             <div class="col-md-12">
-                <a href="javascript:location.href='https://www.hyundai.com/kr/ko/vehicles/kona/highlights';" target="_blank"><img class="chatbotLookBtnImg"/></a>
+                <a href="javascript:location.href='https://www.hyundai.com';" target="_blank"><img class="chatbotLookBtnImg"/></a>
                 <!-- <div class="chatbotLookBtnImg" onclick="javascript:location.href='http://www.hyundai.com/kr/showroom.do?carCd1=RV104&WT.ac=direct_carkind_kona';"></div> -->
             </div>
         </div>
