@@ -51,6 +51,11 @@
            fnPopup(src, "GOOGLE+공유하기", 400, 500);
         });
 
+        /* footerTaiho logo */
+        $(".mainFooterImg1").click(function(){
+        	var src = "http://www.taihoinst.com";
+        	location.href=src;
+        });
 
 	    /* $(document).bind("contextmenu", function(e){
 	        alert("오른쪽 마우스 금지");

@@ -82,7 +82,7 @@
 
 /* Footer */
 .mainFooterBG {background-color:#5D5D5D; padding:0 10%}
-.mainFooterImg1 {width: 189px;height: 33px;background: url(../image/main/footer/logo.png) no-repeat;background-size: 100%; margin-top:20px; margin-bottom:10px}
+.mainFooterImg1 {width: 189px;height: 33px;background: url(../image/main/footer/logo.png) no-repeat;background-size: 100%; margin-top:20px; margin-bottom:10px;cursor:pointer}
 .mainFooterImg2 {width: 16px;height: 27px;background: url(../image/main/footer/icon_location02.png) no-repeat;background-size: 100%;display:inline-block; margin:0 5px -5px 0}
 .mainFooterImg3 {width: 22px;height: 22px;background: url(../image/main/footer/icon_call.png) no-repeat;background-size: 100%;display:inline-block; margin:0 5px -5px 0}
 .mainFooterImg4 {width: 21px;height: 14px;background: url(../image/main/footer/icon_message.png) no-repeat;background-size: 100%; display:inline-block; margin:0 5px -3px 0}
