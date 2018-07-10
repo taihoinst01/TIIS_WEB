@@ -4,6 +4,25 @@
 <html>
 <head>
 <%@ include file="/jsp/common/common_include.jsp" %>
+<!-- weblog 분석 --> 
+<script type="text/javascript" src="http://wcs.naver.net/wcslog.js"> </script> 
+<script type="text/javascript"> 
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_22b333f5e08a";
+if (!_nasa) var _nasa={};
+wcs.inflow();
+wcs_do(_nasa);
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-74290220-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-74290220-3');
+</script>
 <script type="text/javascript">
     $(document).ready(function() {
         $("#chatBotMore").click(function(){
