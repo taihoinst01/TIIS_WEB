@@ -11,7 +11,8 @@
 <script type="text/javascript">
     $(document).ready(function() {
         $('a#newfilename').attr({target: '_blank',
-        href  : '/TIIZ_AI Service_v1.0.00_180315.pdf'});
+        //href  : '/TIIZ_AI Service_v1.0.00_180315.pdf'});
+        href  : '/TIIZ_Service_sales(A4_y)_v1.04.00_200121.pdf'});
     });
 
 
